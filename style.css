@@ -9,7 +9,7 @@ h5{
 
 *{
     font-family: epilogue;
-    color: black;
+    color: #ff5376;
 }
 
 
@@ -24,4 +24,11 @@ footer{
 
 .btn {
     color: #eb123c;
+}
+
+header h1{
+    padding-left: 38%;
+    padding-top: 23%;
+    text-decoration:line-through;
+    font-size: 80px;
 }
