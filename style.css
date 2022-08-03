@@ -9,12 +9,19 @@ h5{
 
 *{
     font-family: epilogue;
+    color: black;
 }
 
-#lala{
-    rotate: 30px;
+
+header{
+    height: 700px;
+    background-image: url(./img/henry-co--odUkx8C2gg-unsplash.jpg);
 }
 
 footer{
-    height: 30%;
+    height: auto;
+}
+
+.btn {
+    color: #eb123c;
 }
